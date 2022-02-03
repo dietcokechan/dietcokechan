@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/2YhWzpxIoCLm0e0Yym/giphy.gif?cid=ecf05e47s8csaah3d55gx04migrbqswyxih7h63mq9sruurk&rid=giphy.gif&ct=s" height="300">
+  <img src="https://media1.giphy.com/media/ao9DUiTKH60XS/giphy.gif?cid=ecf05e472oosxchpsljlcuupmknl2nfun1m69wt171u52e4q&rid=giphy.gif&ct=s" height="300">
 </div>
 
 <div id="badges" align="center">
@@ -17,13 +17,9 @@
   </a><br>
   <img src="https://komarev.com/ghpvc/?username=dietcokechan&style=flat-square&color=blueviolet" alt=""/>
 </div>
-<!-- 
-<div align="center">
-  <img src="https://media0.giphy.com/media/eLU5DifuOkjPtShwwW/giphy.gif?cid=ecf05e47ug36edpbsuzbmg01j8lo1u3sq4rjppyznk7axp18&rid=giphy.gif&ct=s" width="400" height="200"/>
-</div> -->
 <h1>
   Hello!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media4.giphy.com/media/jUQnMvjMiKdgVblLrX/giphy.gif?cid=ecf05e47vrrst0bp4q62qmfci3kdnk6nwtzt0voxhkeotclu&rid=giphy.gif&ct=s" width="40px"/>
 </h1>
 
 My name is Habiba Sameh, I'm a self-taught programmer, majoring in Art Education. I like playing video games, writing about things that interest me, and experimenting with different technologies!
