@@ -26,7 +26,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-My name is Habiba Sameh, I am a self-taught programmer, majoring in Art Education.
+My name is Habiba Sameh, I'm a self-taught programmer, majoring in Art Education. I like playing video games, writing about things that interest me, and experimenting with different technologies!
 
 ## About me:
 
