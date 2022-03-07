@@ -35,7 +35,7 @@ My name is Habiba Sameh, I'm a self-taught programmer, majoring in Art Education
 ✨ I'm very open to new experiences and opportunities!
 
 ## You can reach me here:
-<a href="mailto:habibasamehmosa@gmail.com"><img src="https://cdn-icons.flaticon.com/png/512/1386/premium/1386452.png?token=exp=1646670426~hmac=fea02d79c1f0d3b79567e378fcd0df76" width="50" height="50"></a>
+<a href="mailto:habibasamehmosa@gmail.com"><img src="https://cdn-icons.flaticon.com/png/512/1386/premium/1386452.png?token=exp=1646670426~hmac=fea02d79c1f0d3b79567e378fcd0df76" width="60" height="60"></a>
 <a href="https://www.linkedin.com/in/habiba-sameh/"><img src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" width="50" height="50"></a>
 
 ## [Stats:](https://github.com/anuraghazra/github-readme-stats)
