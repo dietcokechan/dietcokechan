@@ -39,7 +39,5 @@ My name is Habiba Sameh, I'm a self-taught programmer, majoring in Art Education
 <a href="https://www.linkedin.com/in/habiba-sameh/"><img src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" width="50" height="50"></a>
 
 ## [Stats:](https://github.com/anuraghazra/github-readme-stats)
-
-[![dietcokechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dietcokechan&theme=bear&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![dietcokechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dietcokechan&theme=bear&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dietcokechan&theme=bear&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dietcokechan&theme=bear&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dietcokechan&theme=bear&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
