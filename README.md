@@ -19,7 +19,7 @@
 </div>
 <h1>
   Hello!
-  <img src="https://media4.giphy.com/media/jUQnMvjMiKdgVblLrX/giphy.gif?cid=ecf05e47vrrst0bp4q62qmfci3kdnk6nwtzt0voxhkeotclu&rid=giphy.gif&ct=s" width="40px"/>
+  <img src="https://media4.giphy.com/media/jUQnMvjMiKdgVblLrX/giphy.gif?cid=ecf05e47vrrst0bp4q62qmfci3kdnk6nwtzt0voxhkeotclu&rid=giphy.gif&ct=s" width="100px" height="45px"/>
 </h1>
 
 My name is Habiba Sameh, I'm a self-taught programmer, majoring in Art Education. I like playing video games, writing about things that interest me, and experimenting with different technologies!
