@@ -4,10 +4,7 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/habiba-sameh/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCk29W-GJD1pareGZ2NKbfdg">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/dietcokechan">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -15,7 +12,7 @@
     <a href="https://www.twitch.tv/dietcokechan">
     <img src="https://img.shields.io/badge/Twitch-blueviolet?&logo=twitch&style=for-the-badge&logoColor=white" alt="Twitch Badge"/>
   </a><br>
-  <img src="https://komarev.com/ghpvc/?username=dietcokechan&style=flat-square&color=blueviolet" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=dietcokechan&style=flat-square&color=yellow" alt=""/>
 </div>
 <h1>
   Hello!
@@ -39,5 +36,5 @@ My name is Habiba Sameh, I'm a self-taught programmer, majored in Art Education.
 <a href="https://www.linkedin.com/in/habiba-sameh/"><img src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" width="50" height="50"></a>
 
 ## [Stats:](https://github.com/anuraghazra/github-readme-stats)
-[![dietcokechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dietcokechan&theme=bear&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dietcokechan&theme=bear&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![dietcokechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dietcokechan&theme=bear&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dietcokechan&theme=bear&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
