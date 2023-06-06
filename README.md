@@ -25,7 +25,7 @@ My name is Habiba Sameh, I'm a self-taught programmer, majored in Art Education.
 
 🌱 I’m always actively learning and growing by virtue of persistence, resilience and self-motivation.
 
-🌸 I'm very enthusiastic about 3D Modeling, Game Development, and all things Graphics!
+🌸 I'm very enthusiastic about Game Development, Cybersecurity and all things Graphics!
 
 📚 I like reading on different topics to broaden my interests and knowledge.
 
