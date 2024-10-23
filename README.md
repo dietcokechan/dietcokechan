@@ -19,17 +19,9 @@
   <img src="https://media4.giphy.com/media/jUQnMvjMiKdgVblLrX/giphy.gif?cid=ecf05e47vrrst0bp4q62qmfci3kdnk6nwtzt0voxhkeotclu&rid=giphy.gif&ct=s" width="50px" height="45px"/>
 </h1>
 
-My name is Habiba Sameh, I'm a self-taught programmer, majored in Art Education. I like playing video games, writing about things that interest me, and experimenting with different technologies!
+Hello! I’m a dedicated software engineer who enjoys working in fast-paced environments. I adapt quickly and love taking on new challenges, which helps me keep learning and growing. I’m self-motivated and always looking for ways to improve my skills and find creative solutions.
 
-## About me:
-
-🌱 I’m always actively learning and growing by virtue of persistence, resilience and self-motivation.
-
-🌸 I'm very enthusiastic about Game Development, and all things Graphics!
-
-📚 I like reading on different topics to broaden my interests and knowledge.
-
-✨ I'm very open to new experiences and opportunities!
+I believe that being open to change is important in tech, and I’m excited to try out new tools and methods. Let’s connect and see how we can work together to create great solutions!
 
 ## You can reach me here:
 <a href="mailto:habibasamehmosa@gmail.com"><img src="https://user-images.githubusercontent.com/68277372/168045856-4c9d41cc-e687-49db-882a-9282509b2700.png" width="60" height="60"></a>
