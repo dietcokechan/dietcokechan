@@ -29,4 +29,4 @@ I believe that being open to change is important in tech, and I’m excited to t
 
 ## [Stats:](https://github.com/anuraghazra/github-readme-stats)
 [![dietcokechan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dietcokechan&theme=midnight-purple&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dietcokechan&theme=midnight-purple&layout=donut&langs_count=6&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dietcokechan&theme=midnight-purple&layout=donut&langs_count=8&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats) 
