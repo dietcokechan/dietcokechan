@@ -28,5 +28,5 @@ I believe that being open to change is important in tech, and I’m excited to t
 <a href="https://www.linkedin.com/in/habiba-sameh/"><img src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" width="50" height="50"></a>
 
 ## [Stats:](https://github.com/anuraghazra/github-readme-stats)
-[![dietcokechan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dietcokechan&theme=midnight-purple&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dietcokechan&theme=midnight-purple&layout=compact&langs_count=6&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats) 
+[![dietcokechan's GitHub stats](https://github-readme-stats-seven-beige-16.vercel.app/api?username=dietcokechan&theme=dark&show_icons=true&count_private=true)]()
+[![Top Langs](https://github-readme-stats-seven-beige-16.vercel.app/api/top-langs/?username=dietcokechan&theme=dark&layout=compact&langs_count=8&hide_progress=true)]()
