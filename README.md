@@ -19,9 +19,7 @@
   <img src="https://media4.giphy.com/media/jUQnMvjMiKdgVblLrX/giphy.gif?cid=ecf05e47vrrst0bp4q62qmfci3kdnk6nwtzt0voxhkeotclu&rid=giphy.gif&ct=s" width="50px" height="45px"/>
 </h1>
 
-Hello! I’m a dedicated software engineer who enjoys working in fast-paced environments. I adapt quickly and love taking on new challenges, which helps me keep learning and growing. I’m self-motivated and always looking for ways to improve my skills and find creative solutions.
-
-I believe that being open to change is important in tech, and I’m excited to try out new tools and methods. Let’s connect and see how we can work together to create great solutions!
+Hi! I’m Habiba — a gameplay programmer with 1+ years of professional experience in Unity and Unreal Engine. I specialize in crafting responsive, player-centric mechanics and UI, blending technical skill with an artistic eye. I pivoted from art education to game development and built my career from the ground up, starting with Unity and growing into C++, Unreal, and graphics programming. Currently learning Vulkan, Raylib and developing a new game using Unreal Engine (C++) with a playable demo coming in September.
 
 ## You can reach me here:
 <a href="mailto:habibasamehmosa@gmail.com"><img src="https://user-images.githubusercontent.com/68277372/168045856-4c9d41cc-e687-49db-882a-9282509b2700.png" width="60" height="60"></a>
@@ -29,4 +27,4 @@ I believe that being open to change is important in tech, and I’m excited to t
 
 ## [Stats:](https://github.com/anuraghazra/github-readme-stats)
 [![dietcokechan's GitHub stats](https://github-readme-stats-seven-beige-16.vercel.app/api?username=dietcokechan&theme=dark&show_icons=true&count_private=true)]()
-[![Top Langs](https://github-readme-stats-seven-beige-16.vercel.app/api/top-langs/?username=dietcokechan&theme=dark&layout=compact&langs_count=8&hide_progress=true)]()
+[![Top Langs](https://github-readme-stats-seven-beige-16.vercel.app/api/top-langs/?username=dietcokechan&theme=dark&layout=compact&langs_count=8&hide_progress=false)]()
