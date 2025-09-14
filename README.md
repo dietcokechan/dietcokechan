@@ -28,4 +28,4 @@ Hi! I’m Habiba — a gameplay programmer with 1+ years of professional experie
 ## Stats:
 [![dietcokechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dietcokechan&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dietcokechan&theme=transparent&langs_count=3&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dietcokechan&theme=transparent&langs_count=4&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
