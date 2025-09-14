@@ -26,5 +26,5 @@ Hi! I’m Habiba — a gameplay programmer with 1+ years of professional experie
 <a href="https://www.linkedin.com/in/habiba-sameh/"><img src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" width="50" height="50"></a>
 
 ## [Stats:](https://github.com/anuraghazra/github-readme-stats)
-[![dietcokechan's GitHub stats](https://github-readme-stats-seven-beige-16.vercel.app/api?username=dietcokechan&theme=dark&show_icons=true&count_private=true)]()
-[![Top Langs](https://github-readme-stats-seven-beige-16.vercel.app/api/top-langs/?username=dietcokechan&theme=dark&layout=compact&langs_count=8&hide_progress=false)]()
+[![dietcokechan's GitHub stats](https://github-readme-stats-seven-beige-16.vercel.app/api?username=dietcokechan&theme=dark&show_icons=true&count_private=true)]() <br>
+[![Top Langs](https://github-readme-stats-seven-beige-16.vercel.app/api/top-langs/?username=dietcokechan&theme=dark&layout=pie&langs_count=5&hide_progress=false)]()
