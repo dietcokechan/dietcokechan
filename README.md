@@ -25,6 +25,7 @@ Hi! I’m Habiba — a gameplay programmer with 1+ years of professional experie
 <a href="mailto:habibasamehmosa@gmail.com"><img src="https://user-images.githubusercontent.com/68277372/168045856-4c9d41cc-e687-49db-882a-9282509b2700.png" width="60" height="60"></a>
 <a href="https://www.linkedin.com/in/habiba-sameh/"><img src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" width="50" height="50"></a>
 
-## [Stats:](https://github.com/anuraghazra/github-readme-stats)
-[![dietcokechan's GitHub stats](https://github-readme-stats-seven-beige-16.vercel.app/api?username=dietcokechan&theme=dark&show_icons=true&count_private=true)]() <br>
-[![Top Langs](https://github-readme-stats-seven-beige-16.vercel.app/api/top-langs/?username=dietcokechan&theme=dark&layout=pie&langs_count=5&hide_progress=false)]()
+## Stats:
+[![dietcokechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dietcokechan&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dietcokechan&theme=transparent&langs_count=3&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
